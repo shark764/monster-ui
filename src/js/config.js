@@ -24,5 +24,8 @@ define({
 			loa: 'http://ui.zswitch.net/Editable.LOA.Form.pdf',
 			resporg: 'http://ui.zswitch.net/Editable.Resporg.Form.pdf'
 		}
+	},
+	api: {
+		'default': 'https://sandbox.2600hz.com:8443/v2/'
 	}
 });
